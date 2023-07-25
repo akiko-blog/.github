@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! 👋
 
 <!--
 
@@ -10,6 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
 This is Project Retsu, where our story begins.
 
 ## Donation
@@ -18,4 +19,4 @@ XMR: `884Hq6iuuNP1eHUPcQ594a2kpNfqzcQf31qTZ1oeKTpYPzPNAB1jxd9ZPGxPYoq47N9TSzueJb
 
 ## PGP Certificate
 
-ID: `0176 BA79 99AE ADA6`
+ID: `0176 BA79 99AE ADA6` (Full public key [here](https://github.com/akiko-blog/.github/raw/main/profile/public.asc))
