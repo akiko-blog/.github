@@ -14,8 +14,8 @@ This is Project Retsu, where our story begins.
 
 ## Donation
 
-XMR: `86kwWy6nJEV9NkcekZguLmLcBHNKAQ8YCPcWgKRYwtZ1Yv5UHuwSD5c2114DgUHaBKT1GYexSeXQFFz3Ed6PvMg56HchFLz`
+XMR: `884Hq6iuuNP1eHUPcQ594a2kpNfqzcQf31qTZ1oeKTpYPzPNAB1jxd9ZPGxPYoq47N9TSzueJbzvRfutnbTb9CFsM6J6nqp`
 
-## PGP Fingerprint
+## PGP Certificate
 
-`F9C15ACBFCDBB4B89F166671185084F395D05AE3`
+ID: `0176 BA79 99AE ADA6`
